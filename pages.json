@@ -1,0 +1,57 @@
+{
+	"pages": [
+		{
+		    "path": "pages/login/login",
+		    "style": {
+				"navigationBarTitleText": "login"
+			}
+		},
+		{
+		    "path": "pages/index/index",
+		    "style": {
+				"navigationBarTitleText": "首页"
+			}
+		},
+		{
+		    "path": "pages/order/order",
+		    "style": {
+				"navigationBarTitleText": "订单页"
+			}
+		},
+		{
+		    "path": "pages/personal/personal",
+		    "style": {
+				"navigationBarTitleText": "个人中心"
+			}
+		}
+    ],
+	"tabBar": {
+	    "color": "#7A7E83",
+	    "selectedColor": "#3cc51f",
+	    "borderStyle": "black",
+	    "backgroundColor": "#ffffff",
+	    "list": [
+			{
+				"pagePath": "pages/index/index",
+				"text": "首页"
+			}, 
+			{
+				"pagePath": "pages/order/order",
+				"text": "订单"
+			},
+			{
+				"pagePath": "pages/personal/personal",
+				"text": "我的"
+			}
+		]
+	},
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "新零售",
+		"navigationBarBackgroundColor": "#0099cc",
+		"backgroundColor": "#FFFFFF"
+	},
+	"easycom": {
+	    "^u-(.*)": "@/uview-ui/components/u-$1/u-$1.vue"
+	}
+}
