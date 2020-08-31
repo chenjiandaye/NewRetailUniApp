@@ -1,15 +1,9 @@
 {
 	"pages": [
 		{
-		    "path": "pages/login/login",
+		    "path": "pages/personal/personal",
 		    "style": {
-				"navigationBarTitleText": "login"
-			}
-		},
-		{
-		    "path": "pages/index/index",
-		    "style": {
-				"navigationBarTitleText": "首页"
+				"navigationBarTitleText": "个人中心"
 			}
 		},
 		{
@@ -19,9 +13,15 @@
 			}
 		},
 		{
-		    "path": "pages/personal/personal",
+		    "path": "pages/index/index",
 		    "style": {
-				"navigationBarTitleText": "个人中心"
+				"navigationBarTitleText": "首页"
+			}
+		},
+		{
+		    "path": "pages/shDetail/shDetail",
+		    "style": {
+				"navigationBarTitleText": "售后"
 			}
 		}
     ],
@@ -52,6 +52,6 @@
 		"backgroundColor": "#FFFFFF"
 	},
 	"easycom": {
-	    "^u-(.*)": "@/uview-ui/components/u-$1/u-$1.vue"
+		"^u-(.*)": "uview-ui/components/u-$1/u-$1.vue"
 	}
 }

@@ -1,4 +1,7 @@
 {
   "navigationBarTitleText": "订单页",
-  "usingComponents": {}
+  "usingComponents": {
+    "v-tabs": "/components/v-tabs/v-tabs",
+    "all-order": "/components/order_com/all_order"
+  }
 }

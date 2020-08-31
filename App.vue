@@ -2,14 +2,14 @@
 import { mapActions,mapState } from 'vuex'
 export default {
 	onLaunch: function() {
-		console.log('App Launch');
+		// console.log('App Launch');
 		this.getProvider()
 	},
 	onShow: function() {
-		console.log('App Show');
+		// console.log('App Show');
 	},
 	onHide: function() {
-		console.log('App Hide');
+		// console.log('App Hide');
 	},
 	computed:{
 		...mapState(['provider'])
@@ -33,5 +33,8 @@ export default {
 </script>
 
 <style lang="scss">
-	@import "uview-ui/index.scss";
+@import "uview-ui/index.scss";
+page{
+	background-color: #fff;
+}
 </style>

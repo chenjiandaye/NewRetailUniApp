@@ -1,9 +1,9 @@
 (my["webpackJsonp"] = my["webpackJsonp"] || []).push([["pages/index/index"],{
 
 /***/ 47:
-/*!***********************************************************************!*\
-  !*** F:/myjob/uni-demo/demo/main.js?{"page":"pages%2Findex%2Findex"} ***!
-  \***********************************************************************/
+/*!**********************************************************************************!*\
+  !*** F:/myjob/uni-demo/NewRetailUniApp/main.js?{"page":"pages%2Findex%2Findex"} ***!
+  \**********************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17,9 +17,9 @@ createPage(_index.default);
 /***/ }),
 
 /***/ 48:
-/*!****************************************************!*\
-  !*** F:/myjob/uni-demo/demo/pages/index/index.vue ***!
-  \****************************************************/
+/*!***************************************************************!*\
+  !*** F:/myjob/uni-demo/NewRetailUniApp/pages/index/index.vue ***!
+  \***************************************************************/
 /*! no static exports found */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -58,9 +58,9 @@ component.options.__file = "pages/index/index.vue"
 /***/ }),
 
 /***/ 49:
-/*!***********************************************************************************!*\
-  !*** F:/myjob/uni-demo/demo/pages/index/index.vue?vue&type=template&id=57280228& ***!
-  \***********************************************************************************/
+/*!**********************************************************************************************!*\
+  !*** F:/myjob/uni-demo/NewRetailUniApp/pages/index/index.vue?vue&type=template&id=57280228& ***!
+  \**********************************************************************************************/
 /*! exports provided: render, staticRenderFns, recyclableRender, components */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -80,9 +80,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ 50:
-/*!***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--16-0!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/template.js!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-uni-app-loader/page-meta.js!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib??vue-loader-options!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/style.js!F:/myjob/uni-demo/demo/pages/index/index.vue?vue&type=template&id=57280228& ***!
-  \***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*!**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--16-0!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/template.js!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-uni-app-loader/page-meta.js!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib??vue-loader-options!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/style.js!F:/myjob/uni-demo/NewRetailUniApp/pages/index/index.vue?vue&type=template&id=57280228& ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
 /*! exports provided: render, staticRenderFns, recyclableRender, components */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -94,13 +94,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "components", function() { return components; });
 var components = {
   uniLink: function() {
-    return __webpack_require__.e(/*! import() | components/uni-link/uni-link */ "components/uni-link/uni-link").then(__webpack_require__.bind(null, /*! @/components/uni-link/uni-link.vue */ 99))
-  },
-  uCellGroup: function() {
-    return __webpack_require__.e(/*! import() | uview-ui/components/u-cell-group/u-cell-group */ "uview-ui/components/u-cell-group/u-cell-group").then(__webpack_require__.bind(null, /*! @/uview-ui/components/u-cell-group/u-cell-group.vue */ 106))
-  },
-  uCellItem: function() {
-    return __webpack_require__.e(/*! import() | uview-ui/components/u-cell-item/u-cell-item */ "uview-ui/components/u-cell-item/u-cell-item").then(__webpack_require__.bind(null, /*! @/uview-ui/components/u-cell-item/u-cell-item.vue */ 113))
+    return __webpack_require__.e(/*! import() | components/uni-link/uni-link */ "components/uni-link/uni-link").then(__webpack_require__.bind(null, /*! @/components/uni-link/uni-link.vue */ 83))
   }
 }
 var render = function() {
@@ -117,9 +111,9 @@ render._withStripped = true
 /***/ }),
 
 /***/ 51:
-/*!*****************************************************************************!*\
-  !*** F:/myjob/uni-demo/demo/pages/index/index.vue?vue&type=script&lang=js& ***!
-  \*****************************************************************************/
+/*!****************************************************************************************!*\
+  !*** F:/myjob/uni-demo/NewRetailUniApp/pages/index/index.vue?vue&type=script&lang=js& ***!
+  \****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -133,14 +127,22 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ 52:
-/*!************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/babel-loader/lib!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--12-1!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/script.js!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib??vue-loader-options!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/style.js!F:/myjob/uni-demo/demo/pages/index/index.vue?vue&type=script&lang=js& ***!
-  \************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*!***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--12-1!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/script.js!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib??vue-loader-options!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/style.js!F:/myjob/uni-demo/NewRetailUniApp/pages/index/index.vue?vue&type=script&lang=js& ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;var uniLink = function uniLink() {__webpack_require__.e(/*! require.ensure | components/uni-link/uni-link */ "components/uni-link/uni-link").then((function () {return resolve(__webpack_require__(/*! @/components/uni-link/uni-link.vue */ 99));}).bind(null, __webpack_require__)).catch(__webpack_require__.oe);};var _default =
+/* WEBPACK VAR INJECTION */(function(uni) {Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;var uniLink = function uniLink() {__webpack_require__.e(/*! require.ensure | components/uni-link/uni-link */ "components/uni-link/uni-link").then((function () {return resolve(__webpack_require__(/*! @/components/uni-link/uni-link.vue */ 83));}).bind(null, __webpack_require__)).catch(__webpack_require__.oe);};var _default =
+
+
+
+
+
+
+
+
 
 
 
@@ -158,21 +160,96 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 {
   data: function data() {
     return {
-      href: 'https://uniapp.dcloud.io/component/README?id=uniui' };
+      href: 'https://uniapp.dcloud.io/component/README?id=uniui',
+      loading: false,
+      price: 1 };
 
   },
-  methods: {},
+  methods: {
+    weixinPay: function weixinPay() {var _this = this;
+      console.log("发起支付");
+      this.loading = true;
+      uni.login({
+        success: function success(e) {
+          console.log("login success", e);
+          uni.request({
+            url: "https://unidemo.dcloud.net.cn/payment/wx/mp?code=".concat(e.code, "&amount=").concat(_this.price),
+            success: function success(res) {
+              console.log("pay request success", res);
+              if (res.statusCode !== 200) {
+                uni.showModal({
+                  content: "支付失败，请重试！",
+                  showCancel: false });
 
+                return;
+              }
+              if (res.data.ret === 0) {
+                console.log("得到接口prepay_id", res.data.payment);
+                var paymentData = res.data.payment;
+                uni.requestPayment({
+                  timeStamp: paymentData.timeStamp,
+                  nonceStr: paymentData.nonceStr,
+                  package: paymentData.package,
+                  signType: 'MD5',
+                  paySign: paymentData.paySign,
+                  success: function success(res) {
+                    uni.showToast({
+                      title: "感谢您的赞助!" });
+
+                  },
+                  fail: function fail(res) {
+                    uni.showModal({
+                      content: "支付失败,原因为: " + res.
+                      errMsg,
+                      showCancel: false });
+
+                  },
+                  complete: function complete() {
+                    _this.loading = false;
+                  } });
+
+              } else {
+                _this.loading = false;
+                uni.showModal({
+                  content: res.data.desc,
+                  showCancel: false });
+
+              }
+            },
+            fail: function fail(e) {
+              console.log("fail", e);
+              _this.loading = false;
+              uni.showModal({
+                content: "支付失败,原因为: " + e.errMsg,
+                showCancel: false });
+
+            } });
+
+        },
+        fail: function fail(e) {
+          console.log("fail", e);
+          _this.loading = false;
+          uni.showModal({
+            content: "支付失败,原因为: " + e.errMsg,
+            showCancel: false });
+
+        } });
+
+    },
+    aliPay: function aliPay() {
+      console.log('支付宝支付');
+    } },
 
   components: {
     uniLink: uniLink } };exports.default = _default;
+/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-alipay/dist/index.js */ 1)["default"]))
 
 /***/ }),
 
 /***/ 53:
-/*!*************************************************************************************!*\
-  !*** F:/myjob/uni-demo/demo/pages/index/index.vue?vue&type=style&index=0&lang=css& ***!
-  \*************************************************************************************/
+/*!************************************************************************************************!*\
+  !*** F:/myjob/uni-demo/NewRetailUniApp/pages/index/index.vue?vue&type=style&index=0&lang=css& ***!
+  \************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -186,9 +263,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ 54:
-/*!*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/mini-css-extract-plugin/dist/loader.js??ref--6-oneOf-1-0!./node_modules/css-loader/dist/cjs.js??ref--6-oneOf-1-1!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--6-oneOf-1-2!./node_modules/postcss-loader/src??ref--6-oneOf-1-3!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib??vue-loader-options!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/style.js!F:/myjob/uni-demo/demo/pages/index/index.vue?vue&type=style&index=0&lang=css& ***!
-  \*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*!****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/mini-css-extract-plugin/dist/loader.js??ref--6-oneOf-1-0!./node_modules/css-loader/dist/cjs.js??ref--6-oneOf-1-1!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--6-oneOf-1-2!./node_modules/postcss-loader/src??ref--6-oneOf-1-3!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib??vue-loader-options!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/style.js!F:/myjob/uni-demo/NewRetailUniApp/pages/index/index.vue?vue&type=style&index=0&lang=css& ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 

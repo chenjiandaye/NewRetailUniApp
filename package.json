@@ -1,0 +1,23 @@
+{
+  "name": "NewRetailUniApp",
+  "version": "1.0.0",
+  "description": "新零售-uniapp",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenjiandaye/NewRetailUniApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chenjiandaye/NewRetailUniApp/issues"
+  },
+  "homepage": "https://github.com/chenjiandaye/NewRetailUniApp#readme",
+  "dependencies": {
+    "uview-ui": "^1.6.5"
+  }
+}

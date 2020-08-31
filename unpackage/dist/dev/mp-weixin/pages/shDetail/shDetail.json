@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "售后",
+  "usingComponents": {
+    "u-upload": "/node-modules/uview-ui/components/u-upload/u-upload"
+  }
+}
