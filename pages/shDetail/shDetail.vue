@@ -137,6 +137,7 @@ export default {
 			width: 120rpx;
 			height: 55rpx;
 			line-height: 55rpx;
+			padding: 0;
 		}
 		.cancel{
 			margin-right: 40rpx;
